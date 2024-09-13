@@ -81,6 +81,8 @@ setTimeout(() => {
     pageLeft.style.zIndex = 20;
 }, 3200);
 
+
+
 pages.forEach((_, index) => {
     setTimeout(() => {
         reverseIndex();
